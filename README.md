@@ -3,8 +3,8 @@ Basic finance web app
 
 ## Issues
 
-- [ ] Add pico CSS  
 - [ ] Configure a local libSQL database  
+- [x] Add pico CSS  
 - [x] Create the home page
 
 ## Environment
