@@ -3,9 +3,9 @@ Basic finance web app
 
 ## Issues
 
-- [ ] Create the home page
 - [ ] Add pico CSS  
 - [ ] Configure a local libSQL database  
+- [x] Create the home page
 
 ## Environment
 
