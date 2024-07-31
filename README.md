@@ -3,6 +3,7 @@ Basic finance web app
 
 ## Issues
 
+- [ ] Design the UX
 - [ ] Configure a local libSQL database  
 - [x] Add pico CSS  
 - [x] Create the home page
